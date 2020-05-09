@@ -1,9 +1,9 @@
 # arp-spoof-detector
 ARP Spoof Detector is a network security tool written in python3 for the Linux system. The tool examines all the incoming ARP response packet and identifies whether the response packet is a spoofed packet or not. If an ARP spoof attack detects it notifies the user with the attacker mac address and the total count of spoof packet the system receives
 
-USAGE: 
+# USAGE: 
 
-git clone  
+git clone https://github.com/tejas-gudulekar/arp-spoof-detector.git
 
 cd arp-spoof-detector 
 
